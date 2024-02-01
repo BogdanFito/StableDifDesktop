@@ -4,7 +4,7 @@
 ## Как это сделано
 
 
-**StableDifDesktop** использует модель от Stable Diffusion из репозитория https://github.com/Stability-AI/stablediffusion. Саму модедб можно найти тут: https://huggingface.co/stabilityai/stable-diffusion-2-1-base.
+**StableDifDesktop** использует модель от Stable Diffusion из репозитория https://github.com/Stability-AI/stablediffusion. Саму модель можно найти тут: https://huggingface.co/stabilityai/stable-diffusion-2-1-base.
 
 ## Как запустить приложение
 
